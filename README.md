@@ -49,4 +49,5 @@ int r = random.nextInt(100)+1;
 ```
 
 ## 참고 문제
-1. 로또문제
+1. [로또문제](https://github.com/Lee-KyungSeok/LottoExample)
+ - Random 활용
